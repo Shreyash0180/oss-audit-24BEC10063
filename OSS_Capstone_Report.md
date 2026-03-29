@@ -1,6 +1,6 @@
 # The Open Source Audit — Git
 
-**Course:** Open Source Software | **Unit Coverage:** 1–5 | **Max Marks:** 100
+**Course:** Open Source Software 
 
 | | |
 |---|---|
