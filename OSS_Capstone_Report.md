@@ -4,10 +4,10 @@
 
 | | |
 |---|---|
-| **Student Name** | Rahul G |
-| **Registration Number** | *(fill in your reg number)* |
-| **Slot** | *(fill in your slot)* |
-| **Date of Submission** | *(fill in date)* |
+| **Student Name** | Shreyash Mohanty |
+| **Registration Number** | *24BEC10063* |
+| **Slot** | *B22* |
+| **Date of Submission** | *31-03-2026* |
 | **Chosen Software** | **Git** |
 
 ---
