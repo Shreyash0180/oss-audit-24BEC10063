@@ -1,0 +1,13 @@
+# Ignore the assignment PDF (not needed in the repo)
+OSSCapstoneProject.docx.pdf
+
+# Ignore the Antigravity app directory
+Antigravity/
+
+# OS generated files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Generated manifesto files
+manifesto_*.txt
