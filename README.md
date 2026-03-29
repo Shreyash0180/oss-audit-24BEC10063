@@ -1,8 +1,8 @@
 # oss-audit — The Open Source Audit (Git)
 
 **Course:** Open Source Software (OSS NGMC)  
-**Student:** Rahul G  
-**Registration Number:** *(fill in your reg number)*  
+**Student:** Shreyash Mohanty
+**Registration Number:** 24BEC10063
 **Chosen Software:** Git — Distributed Version Control System  
 **License of Chosen Software:** GNU General Public License v2 (GPLv2)
 
