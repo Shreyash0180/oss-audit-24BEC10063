@@ -1,7 +1,7 @@
 #!/bin/bash
 # ==============================================================
 # Script 1: System Identity Report
-# Author: Rahul G | Course: Open Source Software
+# Author: Shreyash | Course: Open Source Software
 # Purpose: Displays a welcome-screen-style system identity card
 #          showing kernel, user, uptime, distribution, and
 #          license information about the running Linux system.
@@ -10,7 +10,7 @@
 # ==============================================================
 
 # --- Student and project variables ---
-STUDENT_NAME="Rahul G"                # Student's full name
+STUDENT_NAME="Shreyash"                # Student's full name
 SOFTWARE_CHOICE="Git"                 # Chosen open-source software for the audit
 
 # --- Gathering system information using command substitution ---

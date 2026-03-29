@@ -1,7 +1,7 @@
 #!/bin/bash
 # ==============================================================
 # Script 2: FOSS Package Inspector
-# Author: Rahul G | Course: Open Source Software
+# Author: Shreyash | Course: Open Source Software
 # Purpose: Checks whether a specified open-source package is
 #          installed on the system, displays its version and
 #          license info, and prints a short philosophy note
